@@ -6,6 +6,7 @@ alpha
 bravo
 delta
 charlie
+delta
 echo
 golf
 hotel
