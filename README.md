@@ -8,3 +8,5 @@ delta
 charlie
 echo
 golf
+hotel
+india
